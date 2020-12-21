@@ -13,6 +13,14 @@
                     <key>url</key>
                     <string>https://github.com/humiao7/iosDistribute/raw/master/%E9%9A%86%E9%91%ABEAM.ipa</string>
                 </dict>
+		<dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/humiao7/iosDistribute/master/icon.png</string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
@@ -24,7 +32,7 @@
                 <string>software</string>
                 <key>subtitle</key>
                 <string>App Subtitle</string>
-				<key>title</key>
+		<key>title</key>
                 <string>隆鑫EAM</string>
             </dict>
         </dict>
