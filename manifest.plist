@@ -16,14 +16,16 @@
             </array>
             <key>metadata</key>
             <dict>
-                <key>com.loncin.fsm</key>
-                <string>内测app的bundleidentifier</string>
-                <key>V 2.0.0</key>
-                <string>版本号</string>
+                <key>bundle-identifier</key>
+                <string>com.loncin.fsm</string>
+                <key>bundle-version</key>
+                <string>V 2.0.0</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>隆鑫EAM</key>
-                <string>应用名称</string>
+                <key>subtitle</key>
+                <string>App Subtitle</string>
+				<key>title</key>
+                <string>隆鑫EAM</string>
             </dict>
         </dict>
     </array>
